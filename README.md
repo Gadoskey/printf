@@ -1,0 +1,1 @@
+This repository contains a custom implementation of the printf function in C. printf is a fundamental function for formatted output in C programming. This implementation aims to provide an open-source, efficient, and flexible printf function that you can use in your C projects.
